@@ -1,0 +1,22 @@
+
+
+=========== RESERVATION SUMMARY ===========
+Reservation ID: 1
+Customer: Zack Gabriel J. Valenzuela
+Movie: Midnight Chase
+Schedule: 6:00 PM
+Tickets: 2
+Price per ticket: PHP 220
+Total amount: PHP 440
+--------------------------------------------
+
+=========== RESERVATION SUMMARY ===========
+Reservation ID: 2
+Customer: Jhon
+Movie: Ocean of Dreams
+Schedule: 1:30 PM
+Tickets: 5
+Price per ticket: PHP 200
+Total amount: PHP 1000
+--------------------------------------------
+
